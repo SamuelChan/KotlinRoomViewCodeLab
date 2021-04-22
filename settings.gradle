@@ -1,0 +1,2 @@
+rootProject.name = "RoomViewCodelab"
+include ':app'
